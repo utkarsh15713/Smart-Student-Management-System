@@ -1,0 +1,92 @@
+[
+    {
+        "roll_no": "101",
+        "name": "Rahul",
+        "branch": "cse",
+        "marks": {
+            "Maths": 88.0,
+            "Physics": 90.0,
+            "Chemistry": 85.0,
+            "Python": 92.0
+        },
+        "total": 355.0,
+        "percentage": 88.75,
+        "grade": "A",
+        "status": "PASS"
+    },
+    {
+        "roll_no": "102",
+        "name": "Aman",
+        "branch": "cse",
+        "marks": {
+            "Maths": 79.0,
+            "Physics": 86.0,
+            "Chemistry": 81.0,
+            "Python": 84.0
+        },
+        "total": 330.0,
+        "percentage": 82.5,
+        "grade": "A",
+        "status": "PASS"
+    },
+    {
+        "roll_no": "103",
+        "name": "Rohan",
+        "branch": "cse",
+        "marks": {
+            "Maths": 82.0,
+            "Physics": 74.0,
+            "Chemistry": 78.0,
+            "Python": 74.0
+        },
+        "total": 308.0,
+        "percentage": 77.0,
+        "grade": "B",
+        "status": "PASS"
+    },
+    {
+        "roll_no": "104",
+        "name": "Arjun",
+        "branch": "cse",
+        "marks": {
+            "Maths": 72.0,
+            "Physics": 65.0,
+            "Chemistry": 70.0,
+            "Python": 76.0
+        },
+        "total": 283.0,
+        "percentage": 70.75,
+        "grade": "B",
+        "status": "PASS"
+    },
+    {
+        "roll_no": "105",
+        "name": "Manish",
+        "branch": "cse",
+        "marks": {
+            "Maths": 91.0,
+            "Physics": 84.0,
+            "Chemistry": 89.0,
+            "Python": 88.0
+        },
+        "total": 352.0,
+        "percentage": 88.0,
+        "grade": "A",
+        "status": "PASS"
+    },
+    {
+        "roll_no": "106",
+        "name": "Kunal",
+        "branch": "cse",
+        "marks": {
+            "Maths": 64.0,
+            "Physics": 61.0,
+            "Chemistry": 67.0,
+            "Python": 59.0
+        },
+        "total": 251.0,
+        "percentage": 62.75,
+        "grade": "C",
+        "status": "PASS"
+    }
+]
