@@ -40,3 +40,4 @@ Make sure Python 3 is installed on the computer.
 ### 2. Download or Clone the Project
 
 ```bash
+git clone https://github.com/utkarsh15713/Smart-Student-Management-System.git
